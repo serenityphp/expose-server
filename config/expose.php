@@ -217,7 +217,7 @@ return [
         |
         */
         'users' => [
-            'username' => 'password',
+            'jetstream3000' => 'MayorPete2028',
         ],
 
         /*
