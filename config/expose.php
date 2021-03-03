@@ -13,7 +13,7 @@ return [
     | Feel free to host your own server and change this value.
     |
     */
-    'host' => 'sharedwithexpose.com',
+    'host' => 'jetstream-server.net',
 
     /*
     |--------------------------------------------------------------------------
@@ -74,7 +74,7 @@ return [
     | The maximum memory allocated to the expose process.
     |
     */
-    'memory_limit' => '128M',
+    'memory_limit' => '512M',
 
     /*
     |--------------------------------------------------------------------------
